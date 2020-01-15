@@ -697,6 +697,15 @@ func (d *Document) GetImageByRelID(relID string) (common.ImageRef, bool) {
 	return common.ImageRef{}, false
 }
 
+func (d *Document) GetWmfByRelID(relID string) string {
+	for _, wmf := range d.OleObjectWmfPath {
+		if wmf.Rid() == relID {
+			return wmf.Path()
+		}
+	}
+	return ""
+}
+
 // FormFields extracts all of the fields from a document.  They can then be
 // manipulated via the methods on the field and the document saved.
 func (d *Document) FormFields() []FormField {
