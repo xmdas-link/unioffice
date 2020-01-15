@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/xmdas-link/unioffice"
+	"github.com/xmdas-link/unioffice/schema/soo/dml"
 )
 
 type CT_ApplicationNonVisualDrawingProps struct {

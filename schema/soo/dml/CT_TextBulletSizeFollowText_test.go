@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/xmdas-link/unioffice/schema/soo/dml"
 )
 
 func TestCT_TextBulletSizeFollowTextConstructor(t *testing.T) {

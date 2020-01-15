@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/xmdas-link/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type OfcCT_Proxy struct {

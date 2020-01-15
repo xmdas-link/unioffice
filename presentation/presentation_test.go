@@ -3,7 +3,7 @@ package presentation
 import (
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/pml"
+	"github.com/xmdas-link/unioffice/schema/soo/pml"
 )
 
 func TestRemoveChoicesWithPics(t *testing.T) {

@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
-	"github.com/unidoc/unioffice/testhelper"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/xmdas-link/unioffice/schema/soo/wml"
+	"github.com/xmdas-link/unioffice/testhelper"
+	"github.com/xmdas-link/unioffice/zippkg"
 )
 
 func TestSettingsUnmarshal(t *testing.T) {

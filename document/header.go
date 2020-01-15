@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/xmdas-link/unioffice"
+	"github.com/xmdas-link/unioffice/common"
+	"github.com/xmdas-link/unioffice/schema/soo/wml"
 )
 
 // Header is a header for a document section.

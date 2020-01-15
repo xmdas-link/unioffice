@@ -12,8 +12,8 @@ package pml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/xmdas-link/unioffice"
+	"github.com/xmdas-link/unioffice/schema/soo/dml"
 )
 
 type CT_Background struct {

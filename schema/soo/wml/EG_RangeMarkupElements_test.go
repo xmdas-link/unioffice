@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/xmdas-link/unioffice/schema/soo/wml"
 )
 
 func TestEG_RangeMarkupElementsConstructor(t *testing.T) {

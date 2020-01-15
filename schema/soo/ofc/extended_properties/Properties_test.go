@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/extended_properties"
+	"github.com/xmdas-link/unioffice/schema/soo/ofc/extended_properties"
 )
 
 func TestPropertiesConstructor(t *testing.T) {

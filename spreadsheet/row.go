@@ -10,10 +10,10 @@ package spreadsheet
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
+	"github.com/xmdas-link/unioffice"
+	"github.com/xmdas-link/unioffice/measurement"
+	"github.com/xmdas-link/unioffice/schema/soo/sml"
+	"github.com/xmdas-link/unioffice/spreadsheet/reference"
 )
 
 // Row is a row within a spreadsheet.

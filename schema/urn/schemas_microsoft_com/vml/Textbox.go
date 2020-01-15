@@ -12,8 +12,8 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/xmdas-link/unioffice"
+	"github.com/xmdas-link/unioffice/schema/soo/wml"
 )
 
 type Textbox struct {
